@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LETTER</title>
+</head><H1 align=center>APPLICATION LETTER</H1>
+<body><h3 align=right>Ghana,14 January2025</h3>
+    <h3 align=left>Subject: Job Application</h3>
+    <h3 align=left>Dear sir,</h3>
+    <h3 align=left>Daily Mail Manager</h3>
+    <h3>DD50 G.45th Street, Accra</h3>
+    <H3 align=left>GHANA</H3><br/>
+    <h4 align=left>With Lancelot</h4><br/>
+    <p>Herewith I send an applicatin letter and curiculum vitae in response to your advertisment in the Dialy Times,Sunday 15 May 2024</p><br/>
+    <p>I had experience over the past five years as marketing manager of cosmetics and hair care product at Dodo Cosmetics.</p>
+
+    
+
+
+    
+</body>
+</html>
